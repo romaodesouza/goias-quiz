@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/goias-quiz/static/js/main.c3249312.js",
-    "index.html": "/goias-quiz/index.html",
-    "main.c3249312.js.map": "/goias-quiz/static/js/main.c3249312.js.map"
+    "main.js": "/romaodesouza/goias-quiz/static/js/main.c3249312.js",
+    "index.html": "/romaodesouza/goias-quiz/index.html",
+    "main.c3249312.js.map": "/romaodesouza/goias-quiz/static/js/main.c3249312.js.map"
   },
   "entrypoints": [
     "static/js/main.c3249312.js"
